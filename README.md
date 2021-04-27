@@ -1,4 +1,4 @@
-       ##PraticandoJava
+##PraticandoJava
 
 **Exercicios Java**
 
